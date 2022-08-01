@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-tauri-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "tauri",
+    "plugin",
+    "tauri-plugin",
+    "tauri-plugin-vite"
+  ],
+  "author": "流君酱 <jardenliu@qq.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@7.0.0",
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "vite": "^3.0.4"
+  }
+}
