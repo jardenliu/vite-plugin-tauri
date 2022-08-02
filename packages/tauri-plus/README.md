@@ -9,7 +9,7 @@ English | [简体中文](https://github.com/jardenliu/vite-plugin-tauri/blob/mai
 
 ## Install
 ```bash
-    $ npm install vite-plugin-tauri-plus -D
+$ npm install vite-plugin-tauri-plus -D
 ```
 
 ## Usage

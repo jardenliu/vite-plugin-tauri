@@ -9,7 +9,7 @@ Tauri的Vite的整合插件
 
 ## 安装
 ```bash
-    $ npm install vite-plugin-tauri-plus -D
+$ npm install vite-plugin-tauri-plus -D
 ```
 
 ## 使用

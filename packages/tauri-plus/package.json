@@ -17,6 +17,7 @@
   ],
   "author": "流君酱 <jardenliu@qq.com>",
   "license": "MIT",
+  "homepage": "https://github.com/jardenliu/vite-plugin-tauri/tree/main/packages/tauri-plus",
   "packageManager": "pnpm@7.0.0",
   "peerDependencies": {
     "@tauri-apps/cli": "^1.0.0"
