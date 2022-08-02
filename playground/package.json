@@ -1,0 +1,21 @@
+{
+  "name": "vite-plugin-tauri-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.2"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.5",
+    "vite": "^3.0.4",
+    "vite-plugin-tauri-plus": "workspace:^1.0.0"
+  }
+}
