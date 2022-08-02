@@ -18,6 +18,9 @@
   "author": "流君酱 <jardenliu@qq.com>",
   "license": "MIT",
   "packageManager": "pnpm@7.0.0",
+  "peerDependencies": {
+    "@tauri-apps/cli": "^1.0.0"
+  },
   "devDependencies": {
     "@tauri-apps/cli": "^1.0.5",
     "rimraf": "^3.0.2",
