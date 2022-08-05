@@ -73,9 +73,7 @@ export const tauriPlugin = (options: TauriPluginOptions = {}): PluginOption => {
                         ...COMMON_OPTION_CONFIG,
                         ...SVERVE_OPTION_CONFIG,
                     })
-                    setTimeout(() => {
-                        run(['dev', ...args], 'vite')
-                    }, 2000)
+                    run(['dev', ...args], 'vite')
                 })
             },
         },
@@ -88,9 +86,7 @@ export const tauriPlugin = (options: TauriPluginOptions = {}): PluginOption => {
                     ...COMMON_OPTION_CONFIG,
                     ...BUILD_OPTION_CONFIG,
                 })
-                setTimeout(() => {
-                    run(['build', ...args], 'vite')
-                }, 2000)
+                run(['build', ...args], 'vite')
             },
         }
     ]
